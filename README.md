@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Alisha Bashir! Experienced Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in React Native, Microsoft Office, Cascading Style Sheets (CSS), HTML, and JavaScript. Strong engineering professional with a ACCP-EE focused in Information Technology from Aptech Computer Education.
+
+- 🔭 I’m currently working on https://chaplet-clothing.herokuapp.com/.
+- 🌱 I’m currently learning https://react-redux.js.org/ || https://reactjs.org/.
