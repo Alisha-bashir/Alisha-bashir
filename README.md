@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, My Name is Alisha Bashir. A passionate Software Developer 🚀 having experience in building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.
+My Name is Alisha Bashir. A passionate Software Developer 🚀 having experience in building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.
 
 - 🔭 I’m currently working on https://chaplet-clothing.herokuapp.com/.
 - 🌱 I’m currently learning https://react-redux.js.org/ || https://reactjs.org/.
